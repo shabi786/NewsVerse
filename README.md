@@ -1,6 +1,6 @@
 # NewsVerse
 
-A News App build with react where users have access to top headlines
+A News App build with react where users have access to top headlines of the news.
 
 
 
@@ -19,7 +19,7 @@ A News App build with react where users have access to top headlines
 6) Run the following commands
 
 ```bash
-cd newsapp
+cd newsverse
 npm install
 npm start
  
