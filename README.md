@@ -9,6 +9,10 @@ A News App build with react where users have access to top headlines of the news
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/57613823/206392392-b1dc44de-2392-4a22-9f42-670a98d93f9c.gif)
 
 
+## 🛠 Skills
+ReactJs, React-router-dom
+
+
 ## Installation
 
 1) Clone the Repository.
